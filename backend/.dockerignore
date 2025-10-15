@@ -1,4 +1,5 @@
 venv
+myenv
 .git
 db.sqlite3
 .idea
